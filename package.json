@@ -1,0 +1,11 @@
+{
+  "name": "mobile-security-scanner",
+  "version": "1.0.0",
+  "description": "Android için basit dosya ve APK güvenlik analiz aracı (CLI)",
+  "main": "scanner.js",
+  "scripts": {
+    "start": "node scanner.js"
+  },
+  "author": "Sen",
+  "license": "MIT"
+}
